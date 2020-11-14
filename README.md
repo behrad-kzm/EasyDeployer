@@ -8,7 +8,7 @@ $ source execute.sh example.com number_of_workers
 ```
 
 
-##Example:
+## Example:
 
 ```
 $ cd Runner
@@ -16,7 +16,7 @@ $ source execute.sh example.com 3
 
 ```
 
-##Project structure:
+## Project structure:
 
 Your project structure must have these files:
 
@@ -29,7 +29,7 @@ Your project structure must have these files:
 
 ```
 
-##Details:
+## Details:
 EasyDeployer will:
 1- pull from git
 2- install requirements and python3
