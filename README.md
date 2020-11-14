@@ -21,11 +21,12 @@ $ source execute.sh example.com 3
 Your project structure must have these files:
 
 ```
-|____app.py
-|____wsgi.py
-|____requirements.txt
-|____Runner/
-|____ ...
+Project directory
+                  |____app.py
+                  |____wsgi.py
+                  |____requirements.txt
+                  |____Runner/
+                  |____ ...
 
 ```
 
