@@ -2,6 +2,8 @@
 Automatic flask app deployment with Gunicorn and Nginx using dark shells
 
 
+Paste the `Runner/` directory on your root project then:
+
 ```
 $ cd Runner
 $ source execute.sh ip_address_or_domain number_of_workers
