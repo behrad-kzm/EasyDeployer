@@ -32,8 +32,14 @@ Your project structure must have these files:
 ## Details:
 EasyDeployer will:
 1- pull from git
+
 2- install requirements and python3
+
 3- creating venv
+
 4- install and configuring guinicorn
+
 5- binding website with local app
+
 6- install and configuring nginx
+
