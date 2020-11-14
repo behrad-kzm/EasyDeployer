@@ -31,6 +31,7 @@ Your project structure must have these files:
 
 ## Details:
 EasyDeployer will:
+
 1- pull from git
 
 2- install requirements and python3
