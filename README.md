@@ -27,8 +27,18 @@ Project directory
                   |____app.py
                   |____wsgi.py
                   |____requirements.txt
+                  |____ ...blah blah blah...
                   |____Runner/
-                  |____ ...
+                             |____execute.sh
+                             |____scripts/
+                                          |____git_reset_and_pull.sh
+                                          |____install_apt_tools.sh
+                                          |____init_venv.sh
+                                          |____install_requirements.sh
+                                          |____setup_gunicorn.sh
+                                          |____setup_systemd.sh
+                                          |____config_nginx.sh
+
 
 ```
 
