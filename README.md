@@ -4,7 +4,7 @@ Automatic flask app deployment with Gunicorn and Nginx using dark shells
 
 ```
 $ cd Runner
-$ source execute.sh example.com number_of_workers
+$ source execute.sh ip_address_or_domain number_of_workers
 ```
 
 
