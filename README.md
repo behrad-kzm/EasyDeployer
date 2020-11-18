@@ -1,5 +1,6 @@
 # EasyDeployer
 Automatic flask app deployment with Gunicorn and Nginx using dark shells
+
 Read this article to deep undrestanding [Article](https://behradkazemi.medium.com/easydeployer-steps-b0b4675ae776)
 
 Paste the `Runner/` directory on your root project then:
